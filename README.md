@@ -1,4 +1,4 @@
-WarnMe
+nofile
 ======
 
-Simple warning system for PocketMine-MP
+nofile
